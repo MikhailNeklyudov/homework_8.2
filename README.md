@@ -10,9 +10,8 @@
 ![2023-04-23_07-58-10](https://user-images.githubusercontent.com/130427747/233840356-a4d950b8-f384-492f-a325-d71f12939a69.png)
 ![2023-04-23_15-48-32](https://user-images.githubusercontent.com/130427747/233840741-d25d0a0d-f721-4ca8-98ef-4ed243a0d46e.png)
 
-# Задание 3. Скринщот настроек, какую команду нужно взять из Dockerfile-а разобраться не смог. Поэтому ничего не buildится. 
-![2023-04-23_15-40-44](https://user-images.githubusercontent.com/130427747/233840418-47b2f450-fda4-46a0-a921-ac3cf8e4bc0e.png)
-![2023-04-23_15-41-26](https://user-images.githubusercontent.com/130427747/233840455-20172624-da1a-4d9d-8032-487d0c393258.png)
-
-
-
+# Задание 3. 
+Используя подсказку все сделать получилось.
+![2023-04-26_14-44-12](https://user-images.githubusercontent.com/130427747/234566056-7cdecb86-6d63-40ca-838d-e9a582cfca13.png)
+![2023-04-26_14-50-33](https://user-images.githubusercontent.com/130427747/234566324-993c42ed-0756-468c-920c-2cc5abd0a589.png)
+![2023-04-26_14-53-33](https://user-images.githubusercontent.com/130427747/234567154-68430486-a5a3-4517-8399-96e0d4e7661e.png)
